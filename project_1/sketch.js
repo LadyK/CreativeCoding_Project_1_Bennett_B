@@ -2,6 +2,7 @@ var medBlu;
 
 var b1;
 var b2;
+var b3;
 var liteB, melon, pink, orange, mustard, ring;
 var clrs = [];
 
@@ -27,6 +28,7 @@ function setup() {
 
   b1 = new Blob(0, 0, 3, 30);
   b2 = new Blob(50, 100, 3, 30)
+  b3 = new Blob(20, 30, 50, 60);
 
 }
 
