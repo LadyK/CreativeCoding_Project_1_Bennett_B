@@ -51,6 +51,8 @@ function draw() {
   b1.display(clrs[0]);
   
   b2.display(clrs[2]);
+
+  b3.display(clrs[1]);
  
 
 }
